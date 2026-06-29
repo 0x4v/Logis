@@ -36,11 +36,9 @@
 
 ### 🚀 Kurulum ve Kullanım
 ```bash
-# Depoyu klonlayın
-git clone [https://github.com/0x4v/Logis.git](https://github.com/0x4v/Logis.git)
 
-# Klasöre gidin
+git clone https://github.com/0x4v/Logis
+
 cd Logis
 
-# Aracı çalıştırın
 python3 logis.py
