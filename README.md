@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=LOGIS%20v1.0&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/0x4v/Logis/refs/heads/main/logis_screenshot.png" />
 </p>
 
 <p align="center">
